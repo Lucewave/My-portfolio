@@ -83,3 +83,8 @@ img {
 h3 {
     background-color: transparent;
 }
+
+audio {
+    width: 85%;
+    background-color: transparent;
+}
